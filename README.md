@@ -1,7 +1,5 @@
 # Maze Game with Pygame
 
-![Game Screenshot](screenshot.png) <!-- Add a screenshot if available -->
-
 A fun and challenging maze game built using Python and Pygame. Navigate through multiple levels, avoid enemies, and reach the goal to win! The game features character selection, dynamic enemy movement, and a timer to track your progress.
 
 ---
