@@ -13,15 +13,3 @@ A fun and challenging maze game built using Python and Pygame. Navigate through 
 - **Win Condition**: Reach the goal to complete the level and advance to the next one.
 
 ---
-
-## Installation
-
-### Prerequisites
-- Python 3.x
-- Pygame library
-
-### Steps
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/maze-game-pygame.git
-   cd maze-game-pygame
